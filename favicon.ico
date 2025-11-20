@@ -1,0 +1,5 @@
+# Favicon ICO File
+# This is a placeholder for the binary ICO file
+# In production, you would generate a proper ICO file from the SVG
+# You can use online converters or tools like ImageMagick to convert the SVG to ICO format
+# The ICO file should include multiple sizes: 16x16, 32x32, and 48x48 pixels
