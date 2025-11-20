@@ -78,15 +78,6 @@ SwiftHire/
 3. **Development Server**: For development, use a local server (e.g., Live Server in VS Code)
 4. **Customization**: Modify content, colors, and images as needed
 
-### Development Setup
-```bash
-# If using a local server
-cd SwiftHire
-# Use any local server of your choice
-python -m http.server 8000
-# or
-npx live-server
-```
 
 ## 🎯 Intended Use
 
@@ -152,7 +143,7 @@ The landing page is ready for integration with:
 
 **License for RiverTheme**
 
-[RiverTheme.com](https://RiverTheme.com) makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
+RiverTheme makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
 
 ---
 
